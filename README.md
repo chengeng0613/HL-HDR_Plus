@@ -84,4 +84,4 @@ If you have any questions, feel free to contact Genggeng Chen at chengeng0613@gm
 
 ## Checkpoints
 The following links are the weights of the Kalantari dataset , the Hu dataset and Tel dataset:https://drive.google.com/drive/folders/1JID13dIOqYdpVbvxZtqeR2bZYigR9eVe?usp=sharing
-# HL-HDR_Plus
+
